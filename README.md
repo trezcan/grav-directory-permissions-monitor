@@ -40,7 +40,7 @@ This script manipulates file/folder ownership and permissions. The default setup
 
 1. Clone the GitHub repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/grav-directory-permissions-monitor.git
+    git clone https://github.com/trezcan/grav-directory-permissions-monitor.git
     ```
 2. Navigate to the directory and install any dependencies if necessary.
 
