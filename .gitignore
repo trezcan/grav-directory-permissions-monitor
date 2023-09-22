@@ -1,0 +1,13 @@
+
+
+# Ignore
+*.log
+
+
+
+# Do not Ignore
+!.gitkeep
+
+
+# Python
+venv/
